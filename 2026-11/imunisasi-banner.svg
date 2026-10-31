@@ -1,0 +1,13 @@
+<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1350" fill="#20B2AA"/>
+  <rect width="1080" height="200" fill="#FF8C00"/>
+  <text x="540" y="100" font-family="Arial" font-size="60" fill="white" text-anchor="middle">IMUNISASI ANAK</text>
+  <text x="540" y="160" font-family="Arial" font-size="40" fill="white" text-anchor="middle">Lindungi Buah Hati</text>
+  <rect x="50" y="250" width="980" height="850" fill="#008080" rx="20"/>
+  <text x="100" y="350" font-family="Arial" font-size="36" fill="white">• Jadwal imunisasi lengkap</text>
+  <text x="100" y="420" font-family="Arial" font-size="36" fill="white">• Cegah penyakit berbahaya</text>
+  <text x="100" y="490" font-family="Arial" font-size="36" fill="white">• Konsultasi ke dokter anak</text>
+  <text x="540" y="1050" font-family="Arial" font-size="30" fill="white" text-anchor="middle">RSIA Melinda DHAI Kediri</text>
+  <text x="540" y="1100" font-family="Arial" font-size="30" fill="white" text-anchor="middle">WA: 0811-3650-101</text>
+  <text x="540" y="1280" font-family="Arial" font-size="28" fill="white" text-anchor="middle">#RSIAMelindaKediri</text>
+</svg>
