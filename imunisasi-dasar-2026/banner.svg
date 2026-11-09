@@ -1,0 +1,18 @@
+<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1350" fill="#E0F7FA"/>
+  <rect x="30" y="30" width="300" height="100" rx="10" fill="#00838F" stroke="#FF6F00" stroke-width="4"/>
+  <text x="50" y="80" font-family="Arial, sans-serif" font-size="28" fill="white" font-weight="bold">RSIA Melinda</text>
+  <text x="50" y="110" font-family="Arial, sans-serif" font-size="22" fill="#FFCC80">DHAI Kediri</text>
+  <text x="100" y="250" font-family="Arial, sans-serif" font-size="56" fill="#00695C" font-weight="bold">Imunisasi Dasar</text>
+  <text x="100" y="320" font-family="Arial, sans-serif" font-size="36" fill="#FF6F00">Checklist untuk Orang Tua</text>
+  <rect x="80" y="400" width="920" height="500" rx="20" fill="white" stroke="#00838F" stroke-width="5"/>
+  <text x="120" y="480" font-family="Arial, sans-serif" font-size="32" fill="#004D40">✅ BCG - segera setelah lahir</text>
+  <text x="120" y="550" font-family="Arial, sans-serif" font-size="32" fill="#004D40">✅ Hepatitis B - 0, 1, 6 bulan</text>
+  <text x="120" y="620" font-family="Arial, sans-serif" font-size="32" fill="#004D40">✅ Polio - 0, 2, 3, 4 bulan</text>
+  <text x="120" y="690" font-family="Arial, sans-serif" font-size="32" fill="#004D40">✅ DPT-HB-Hib - 2, 3, 4 bulan</text>
+  <text x="120" y="760" font-family="Arial, sans-serif" font-size="32" fill="#004D40">✅ Campak - 9 bulan</text>
+  <rect x="80" y="980" width="920" height="200" rx="20" fill="#FF6F00"/>
+  <text x="150" y="1050" font-family="Arial, sans-serif" font-size="36" fill="white" font-weight="bold">Konsultasi di RSIA Melinda</text>
+  <text x="150" y="1120" font-family="Arial, sans-serif" font-size="40" fill="white" font-weight="bold">WA: 0811-3650-101</text>
+  <text x="150" y="1180" font-family="Arial, sans-serif" font-size="24" fill="#FFF3E0">#RSIAMelindaKediri</text>
+</svg>
